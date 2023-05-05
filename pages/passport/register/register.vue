@@ -122,5 +122,7 @@ button[type='primary'] {
 	background: #1b9d92;
 	color: #ffffff;
 	margin-top: 24rpx;
+	line-height: 32px;
+	font-size: 32rpx;
 }
 </style>
